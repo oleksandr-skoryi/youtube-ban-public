@@ -3,6 +3,7 @@
 * запустити Google Chrome на компютері
 * Відкрити youtube
 * Залогінитись
+* Спробувати пошукати будь що в пошуку
 * Натиснути праву клавішу і обрати Inspect (передостання опція)
 * Обрати у вікні закладку Console
 * Скопіювати все з файлу `youtube-ban-uglified.js` в консоль і натиснути Enter
@@ -13,6 +14,7 @@
 * Start Google Chrome on your computer
 * Open youtube
 * Login
+* Search random content
 * Click right button and press Inspect the second option from the bottom
 * Choose Console tab
 * Copy everything from `youtube-ban-uglified.js` to console and press Enter
